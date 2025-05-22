@@ -1,4 +1,4 @@
-import{_ as r}from"./CO-vZvJ-.js";import{H as i}from"./ufXEWDSi.js";import{_ as n,c,b as e,w as t,V as l,o as u,g as p,j as d}from"./CAiENJTf.js";const m=`
+import{_ as r}from"./B6F1BxFr.js";import{H as i}from"./hA0AHHpY.js";import{_ as n,c,b as e,w as t,V as l,o as u,g as p,j as d}from"./MTkhiGw9.js";const m=`
     <p class="mb-6">At Strava s.r.o, we believe in transforming ideas into reality...</p>
     <p class="mb-6">With years of experience in the industry, we are proud of our reputation...</p>
     <p class="mb-6">We understand that each project is unique...</p>
