@@ -1,6 +1,0 @@
-import{_ as i}from"./B6F1BxFr.js";import{H as r}from"./hA0AHHpY.js";import{_ as n,c,b as e,w as t,V as l,o as u,g as p,j as d}from"./MTkhiGw9.js";const m=`
-  <p class="mb-6">At Strava s.r.o, we believe in transforming ideas into reality...</p>
-  <p class="mb-6">With years of experience in the industry, we are proud of our reputation...</p>
-  <p class="mb-6">We understand that each project is unique...</p>
-  <p class="mb-6">Our values are rooted in integrity, professionalism, and respect...</p>
-`,_={__name:"about",setup(f){const s=[{src:"https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg",title:"Building Your Dreams"},{src:"https://cdn.vuetifyjs.com/images/carousel/sky.jpg",title:"Creating the Future Today"},{src:"https://cdn.vuetifyjs.com/images/carousel/bird.jpg",title:"Bringing Your Vision to Life"}],a=[{label:"Projects Completed",num:120,value:80},{label:"Clients Served",num:250,value:75},{label:"Sustainability Initiatives",num:50,value:60}];return(b,g)=>{const o=i;return u(),c("div",null,[e(r,{slides:s}),e(l,{fluid:""},{default:t(()=>[e(p,{justify:"center"},{default:t(()=>[e(d,{cols:"12"},{default:t(()=>[e(o,{title:"About Us",text:m,progress:a,actionText:"Contact Us",actionLink:"/contact"})]),_:1})]),_:1})]),_:1})])}}},j=n(_,[["__scopeId","data-v-3866eed9"]]);export{j as default};
